@@ -8,3 +8,7 @@ us or open an issue (if applies, of course).
 ## Official website :earth_americas:
 
 The official website is available [here](https://DiddiOS.github.io).
+
+## Current status :memo:
+
+This is still on development, but this will be ready at some point.
